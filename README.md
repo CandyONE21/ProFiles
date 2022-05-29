@@ -1,2 +1,2 @@
 # ProFiles
-自用配置文件，不定期更新。
+自用 Quantumult X 配置文件，不定期更新。
